@@ -22,3 +22,20 @@ public class Main {
     }
 }
 ```
+
+#Importing
+
+maven:
+```xml
+<!-- repo -->
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+<!-- dependency -->
+<dependency>
+    <groupId>com.github.Jenya705</groupId>
+    <artifactId>Hints</artifactId>
+    <version>-SNAPSHOT</version>
+</dependency>
+```
